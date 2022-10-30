@@ -1,8 +1,8 @@
-import React from 'react';
-import {MainPage, CartPage} from '../pages';
-import AppHeader from '../app-header';
+import React from 'react'
+import { MainPage, CartPage } from '../pages'
+import AppHeader from '../app-header'
 
-import Background from './food-bg.jpg';
+import Background from './food-bg.jpg'
 
 const App = () => {
     return (
@@ -14,4 +14,4 @@ const App = () => {
     )
 }
 
-export default App;
+export default App
